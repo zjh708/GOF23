@@ -1,0 +1,3 @@
+单例模式(Singleton Pattern )是指确保一个类在任何情况下都绝对只有一个实例,并提供一个全局访问点。
+单例模式是创建型模式。单例模式在现实生活中应用也非常广泛,例如,公司CEO、部门经理等。
+J2EE标准中的ServletContext、ServetContextConfig等、Spring框架应用中的ApplicationContext,数据库的连接池等也都是单例形式。
